@@ -18,5 +18,5 @@ This is i a collection of Python scripts that i have writen for my production en
     with them. If Work directorys starts building up large amount of files, that is a red flag that something might not be processing
     properlly with the applicaiton. 
 
-3.  DisplayFiles.py displays the actaull files, with last modified date. 
+3.  DisplayFiles.py displays the actaull file names, with last modified date in each Work sub directory. 
 
