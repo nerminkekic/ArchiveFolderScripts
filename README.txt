@@ -21,3 +21,7 @@ This is i a collection of Python scripts that i have writen for my production en
 3.  DisplayFiles.py displays the actaull file names, with last modified date in each Work sub directory that are three months
     and older. 
 
+4.  EAMonthlyReport.py is a script that i wrote to obtain monthly archive and retreive volume for each customer. I manage a 
+    LTA storage service and it was very important for the organization to be able to see archives and retreives volume for
+    each of the customers. 
+
